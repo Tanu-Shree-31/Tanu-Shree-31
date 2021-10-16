@@ -45,8 +45,9 @@ Known on internet as **Tanushree Shetty**
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:bstanushree@gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanu-Shree-31&count_private=true&show_icons=true&theme=radical)
 
-
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-Shree-31&show_icons=true&theme=radical)
 <!---
 Tanu-Shree-31/Tanu-Shree-31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
