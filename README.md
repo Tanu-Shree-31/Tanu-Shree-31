@@ -22,13 +22,15 @@
 
 # 🛠 &nbsp;Tech Stack
 
-#### Programming Languages: 
+#### Programming Languages & Other Technical Competancy: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/data.analysis-%23430098.svg?style=for-the-badge&logo=data-analysis&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data.Visualization-1B6AC6.svg?style=for-the-badge&logo=apache-Data.Visualization&logoColor=white)
 
 #### Framework, Platforms & Libraries:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -36,6 +38,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=FFA518)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFA518)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful.Soup-%23121011.svg?style=for-the-badge&logo=Beautiful.Soup&logoColor=white)
 
 #### IDE's / Editors:
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
@@ -64,6 +67,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplolib](https://img.shields.io/badge/matplotlib-%23ED8B00.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23FF9900.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Bokeh](https://img.shields.io/badge/bokeh-%23563D7C.svg?style=for-the-badge&logo=bokeh&logoColor=white)
 
 #### Office:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
