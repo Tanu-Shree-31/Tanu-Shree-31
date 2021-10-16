@@ -1,6 +1,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/69342524/137174882-01eb6d4e-56eb-4c23-8625-09fd030bf562.gif)
 
-# <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+<h1>ನಮಸ್ಕಾರ(Namaskara)🙏🏻, I'm Tanushree B S! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![Followers](https://img.shields.io/github/followers/Tanu-Shree-31?style=social)&nbsp;
 ![Profile views](https://img.shields.io/github/watchers/Tanu-Shree-31/Tanu-Shree-31?style=social)&nbsp;
@@ -51,8 +52,9 @@
 #### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tanu-Shree-31&count_private=true&show_icons=true&theme=radical" />
 
-### Hosting/SaaS:
+#### Hosting/SaaS:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%2344A833.svg?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -74,8 +76,9 @@
 #### Office:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-Shree-31&show_icons=true&theme=radical" />
 
-## Connect with me! 🌐
+# Connect with me! 🌐
 Known on internet as **Tanushree Shetty**
 
 
@@ -85,9 +88,6 @@ Known on internet as **Tanushree Shetty**
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:bstanushree@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanu-Shree-31&count_private=true&show_icons=true&theme=radical)
-
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-Shree-31&show_icons=true&theme=radical)
 <!---
 Tanu-Shree-31/Tanu-Shree-31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
