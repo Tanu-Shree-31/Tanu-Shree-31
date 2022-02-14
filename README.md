@@ -14,7 +14,7 @@
 🎓 &nbsp;I'm pursuing third year of my engineering in Data Science Specialisation (CSE Dept) at Presidency University, Bangalore (2023 passout batch). I love working with data and exploring ML algorithms.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Deep Learning, Text Analytics and Computer Vision.\
 🔹 I may not be an expert in everything but I do know what all things I need to know. I am a visionary person with sprinkles of canniness on it. What differs me from the usual crowd is the hunger to learn and thus I'm also very inspired by what Steve Jobs said, "Stay hungry, Stay foolish".\
-💻 Currently a ML & AI Intern @Wipro, Electronic City, Bangalore.\
+💻 Ex - ML & AI Intern @Wipro, Electronic City, Bangalore.\
 ✍️ &nbsp;In my free time, I do doodle arts, listen to music and play badminton as my hobbies.\
 ✉️ &nbsp;You can email me at bstanushree@gmail.com. I'll try to respond as soon as possible!
 <!---
